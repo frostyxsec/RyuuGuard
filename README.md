@@ -102,3 +102,6 @@ ryuuguard --test
 ## License
 
 [MIT](LICENSE)
+
+## Download
+<a href="https://github.com/frostyxsec/RyuuGuard/releases/tag/release">Click Here</a>
