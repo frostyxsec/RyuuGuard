@@ -17,10 +17,6 @@ Simple Open Source Server Engine Security Monitor IDSA
 ## Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/RyuuGuard.git
-cd RyuuGuard
-
 # Make the script executable
 chmod +x ryuuguard
 
