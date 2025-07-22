@@ -1,7 +1,7 @@
 # RyuuGuard
 <img src="https://raw.githubusercontent.com/frostyxsec/RyuuGuard/refs/heads/main/banner.png">
 
-Simple Open Source Server Engine Security Monitor IDSA
+Simple Light Open Source Server Engine Security Monitor IDSA
 
 <img src="https://raw.githubusercontent.com/frostyxsec/RyuuGuard/refs/heads/main/demo.png">
 
