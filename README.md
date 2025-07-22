@@ -22,10 +22,10 @@ git clone https://github.com/yourusername/RyuuGuard.git
 cd RyuuGuard
 
 # Make the script executable
-chmod +x ryuuguard.sh
+chmod +x ryuuguard
 
 # Move to system path (requires root)
-sudo mv ryuuguard.sh /usr/bin/ryuuguard
+sudo mv ryuuguard /usr/bin/ryuuguard
 ```
 
 ## Usage
