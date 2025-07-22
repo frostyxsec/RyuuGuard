@@ -1,6 +1,6 @@
 # RyuuGuard
 
-Advanced Server Security Monitor with Telegram notifications and Brute Force Detection.
+Simple Open Source Server Engine Security Monitor with Telegram notifications and Brute Force Detection.
 
 ## Features
 
