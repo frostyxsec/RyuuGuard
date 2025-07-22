@@ -58,15 +58,16 @@ ryuuguard
 ```bash
 # Create default config if it doesn't exist
 ryuuguard --init
-
-# Edit the config file
-LOG_DIR="/var/log/nginx"
 ```
 
 ```bash
 # Change the log path
-ryuuguard --init
+LOG_DIR="/var/log/nginx"
+```
 
+```bash
+# Edit the config before installing
+nano /usr/bin/ryuuguad
 # Edit the config file
 nano /etc/ryuuguard.conf
 ```
